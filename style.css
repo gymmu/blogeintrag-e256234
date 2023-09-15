@@ -8,6 +8,21 @@ body {
   margin: 0;
   background-color:bisque;
   font-family: sans-serif;
-  text-align: center;
-
 }
+  h1{
+    text-align: center;
+  }
+  
+  h2{
+    text-align: center;
+  }
+
+  section{
+    text-align: center;
+  
+  }
+
+  
+  
+
+
