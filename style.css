@@ -6,6 +6,38 @@
 
 body {
   margin: 0;
-  background-color: lightgray;
+  background-color:bisque;
   font-family: sans-serif;
 }
+  h1{
+    text-align: center;
+  }
+  
+  h2{
+    text-align: center;
+  }
+
+  section{
+    text-align: center;
+  
+  }
+ 
+
+.img-center {
+  text-align: center;
+}
+
+.img-center > img {
+  width: 50%;
+}
+.spread {
+  transition: all 1s ease-in-out;
+}
+.spread:hover {
+  letter-spacing: 1rem;
+}
+
+
+  
+
+
